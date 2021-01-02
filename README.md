@@ -18,7 +18,7 @@ In order to view this jupyter notebook, it is required that you have jupyter ins
 
 The required software can be downloaded for installation [here](https://jupyter.org/).
 
-This project also relies on the following additional pyhton packages:
+This project also relies on the following additional python packages:
 
  - numpy
  - pandas
